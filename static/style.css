@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+    }
+    th, td {
+        padding: 5px;
+        text-align: left;    
+    }
+
+ .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:aliceblue;
+        color: black;
+        text-align: center;
+    }
+body{
+    background-image: url('./Caribbean-beach.jpg');
+    height: 100%;
+    background-position: center;
+ 
+    background-size: cover;
+}   
